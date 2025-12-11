@@ -1,0 +1,5 @@
+basic.py
+.venv
+cnn_using_numpy.py
+naive_bayes.py
+tree_bagging_with_boosting.py
